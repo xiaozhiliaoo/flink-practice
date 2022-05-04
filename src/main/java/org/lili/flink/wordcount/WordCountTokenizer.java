@@ -1,4 +1,4 @@
-package org.lili.flink.worcount;
+package org.lili.flink.wordcount;
 import org.apache.flink.api.common.functions.FlatMapFunction;
 import org.apache.flink.api.java.tuple.Tuple2;
 import org.apache.flink.util.Collector;

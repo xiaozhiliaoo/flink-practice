@@ -1,4 +1,4 @@
-package org.lili.flink.worcount;
+package org.lili.flink.wordcount;
 import org.apache.flink.api.java.DataSet;
 import org.apache.flink.api.java.ExecutionEnvironment;
 
