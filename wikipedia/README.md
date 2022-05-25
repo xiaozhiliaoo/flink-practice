@@ -4,6 +4,9 @@
 
 # Person
 
+Kostas Tzoumas, CEO, data Artisans
+
+Fabian Hueske, 
 
 
 # Site
